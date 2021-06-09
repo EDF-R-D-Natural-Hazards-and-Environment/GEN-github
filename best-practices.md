@@ -46,6 +46,8 @@ HEAD | HEAD is a reference variable used to denote the most current commit of th
 
 * **Don't commit large files or files that cannot be version controlled** - Large files, such as ~Gb of data should not be stored in a GitHub repo as it makes interacting with the repo extremely slow. Small amounts of data are ok to be stored in the repo, but generally GitHub repos are best suited to code. Similarly, files that cannot be tracked by the version control software should not be included; this includes pictures, pdfs, and videos. You can choose not to commit certain files that are in your local directory by creating a *.gitignore* file. (This is a rule that can sometimes be broken, for example if you want to include a pdf that won't change in the future for display purposes - usch as the pdf in this repo).
 
+* **Write a README file for every repository** - A README file is a text file that gives an overview of the repository. What you include in the README depends on the type of repository. Some examples of what could be included in a README: description of files, instructions of how to download/install software.
+
 
 ## Naming conventions
 Adopting consistent repository and file naming conventions early will help make our GitHub page easy to use - especially for future researchers who join our group.
