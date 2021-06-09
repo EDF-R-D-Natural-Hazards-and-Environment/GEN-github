@@ -23,11 +23,6 @@ Once you have installed Git, open the program "Git Bash" (you can find this by u
 
 To complete your initial set-up, run the following commands (with the usernames and email addresses to your own) so that Git can be connected to your account:
 
-Add your user name:
-`git config --global user.name "your_username"`
-
-Add your email address:
-`git config --global user.email "your_email_address@example.com"`
-
-To check the configuration, run:
-`git config --global --list`
+- Add your user name: `git config --global user.name "your_username"`
+- Add your email address: `git config --global user.email "your_email_address@example.com"`
+- To check the configuration, run: `git config --global --list`
