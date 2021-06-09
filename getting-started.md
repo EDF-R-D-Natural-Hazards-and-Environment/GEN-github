@@ -18,5 +18,16 @@ The default installation options should be suitable for our needs.
 
 ## First commands
 Once you have installed Git, open the program "Git Bash" (you can find this by using the search bar in the bottom left of the desktop). When you open it, it will open a terminal that will look something like this:
+
 ![image](https://user-images.githubusercontent.com/82367935/121334074-42f65900-c911-11eb-9605-782259947aaa.png)
-To complete your initial set-up, run the following commands so that Git can be connected to your account
+
+To complete your initial set-up, run the following commands (with the usernames and email addresses to your own) so that Git can be connected to your account:
+
+Add your user name:
+`git config --global user.name "your_username"`
+
+Add your email address:
+`git config --global user.email "your_email_address@example.com"`
+
+To check the configuration, run:
+`git config --global --list`
