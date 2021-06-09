@@ -13,3 +13,4 @@ The default installation options should be suitable for our needs.
 GitHub is an online platform for version control, collaboration, and sharing of code. It is driven by Git software. Sign up for an account [here](https://github.com/). Ideally, sign up with yourwork email address.
 
 ## Join the NH&E team's GitHub organisation
+The NH&E team has it's own GitHub organisational page [here](https://github.com/EDF-R-D-Natural-Hazards-and-Environment). Once you have signed up for an account with GitHub, please send me an email and a message and I will invite you to the organisation. In your email/message, please let me knoe what email address you used to sign up with.
