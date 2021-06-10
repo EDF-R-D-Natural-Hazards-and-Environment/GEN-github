@@ -48,9 +48,10 @@ HEAD | HEAD is a reference variable used to denote the most current commit of th
 
 * **Write a README file for every repository** - A README file is a text file that gives an overview of the repository. What you include in the README depends on the type of repository. Some examples of what could be included in a README: description of files, instructions of how to download/install software.
 
+* **Make repositories private** - For confidentiality purposes, please make repositories private. GitHub allows unlimited private repositories for organisations.
+
 
 ## Naming conventions
 Adopting consistent repository and file naming conventions early will help make our GitHub page easy to use - especially for future researchers who join our group.
 
-### Repositories
-
+I suggest that we preface general repositories with "GEN" and repositories with code that is for a specific project with "PRO" followed by the project code. Ideally you would also include a few words from the project title. E.g. the code for project 2021-NNB-D54 would be stored in repository called "PRO 2021-NNB-D54 SZC seawater temperature".
